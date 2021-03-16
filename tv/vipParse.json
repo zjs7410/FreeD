@@ -2,28 +2,27 @@
   "data": [
     {
       "id": 18,
-      "name": "夜空",
-      "ad": "no",
-      "url": "https://pay.520yk.cn/256/?url="
-    },
-     {
-      "id": 19,
       "name": "OK解析",
       "ad": "no",
       "url": "http://okjx.cc/?url="
     },
+     {
+      "id": 19,
+      "name": "BL解析",
+      "ad": "no",
+      "url": "https://vip.bljiex.com/?v="
+    },
     {
       "id": 20,
-      "name": "思古",
+      "name": "加速",
       "ad": "no",
-      "url": "https://jx.siguyy.com/?url="
+      "url": "https://www.cuan.la/m3u8.php?url="
     },
      {
       "id": 21,
-      "name": "纯白",
+      "name": "7K解析",
       "ad": "no",
-      "url": "https://chkkk.top/jiexi/ys?url=",
-      "vip": "?isckplayer=" 
+      "url": "https://jx.7kjx.com/?url="
     },
         {
       "id": 22,
@@ -33,7 +32,7 @@
     },
         {
       "id": 23,
-      "name": "原m3u8",
+      "name": "安安",
       "ad": "no",
       "url": "https://jiexi.janan.net/jiexi/?url="
     },
@@ -63,28 +62,63 @@
     },
     {
       "id": 28,
-      "name": "加速",
+      "name": "夜空",
       "ad": "yes",
-      "url": "https://www.cuan.la/m3u8.php?url="
+      "url": "https://pay.520yk.cn/256/?url="
     }, 
      {
       "id": 29,
-      "name": "思古2",
+      "name": "思古1",
       "ad": "no",
-      "url": "http://jx.quanmingjiexi.com/?url="
+      "url": "https://jsap.attakids.com/?url="
     },
      {
       "id": 30,
-      "name": "BL解析",
+      "name": "思古2",
       "ad": "no",
-      "url": "https://vip.bljiex.com/?v="
+      "url": "https://jx.siguyy.com/?url="
     },
      {
       "id": 31,
-      "name": "江湖",
+      "name": "解m3u8",
       "ad": "no",
-      "url": "https://v.jhdyw.vip/jhapi/?url=",
-      "vip": "&referer=https://v.jhdyw.vip"
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+     {
+      "id": 32,
+      "name": "1907",
+      "ad": "no",
+      "url": "https://z1.m1907.cn/?jx="
+    },
+      {
+      "id": 33,
+      "name": "解p2p",
+      "ad": "no",
+      "url": "https://jx.ap2p.cn/?url="
+    },
+      {
+      "id": 34,
+      "name": "酷看",
+      "ad": "no",
+      "url": "https://jx.kukan.vip/jiexi/?url="
+    },
+      {
+      "id": 35,
+      "name": "IK解析",
+      "ad": "no",
+      "url": "https://vip.ikjiexi.top/?url="
+    },
+      {
+      "id": 36,
+      "name": "3解析",
+      "ad": "no",
+      "url": "https://api.3jx.top/vip/?url="
+    },
+     {
+      "id": 37,
+      "name": "52解析",
+      "ad": "no",
+      "url": "https://vip.52jiexi.top/?url="
     }
   ]
 }
