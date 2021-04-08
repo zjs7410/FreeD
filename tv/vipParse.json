@@ -1,6 +1,18 @@
 {
   "data": [
-    {
+   {
+      "id": 16,
+      "name": "蓝光解析",
+      "ad": "no",
+      "url": "https://j.languang.wfss100.com/?url="
+    },
+       {
+      "id": 17,
+      "name": "TV解析",
+      "ad": "no",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+     {
       "id": 18,
       "name": "OK解析",
       "ad": "no",
@@ -80,42 +92,36 @@
     },
      {
       "id": 31,
-      "name": "解m3u8",
-      "ad": "no",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-     {
-      "id": 32,
       "name": "1907",
       "ad": "no",
       "url": "https://z1.m1907.cn/?jx="
     },
       {
-      "id": 33,
+      "id": 32,
       "name": "解p2p",
       "ad": "no",
       "url": "https://jx.ap2p.cn/?url="
     },
       {
-      "id": 34,
+      "id": 33,
       "name": "酷看",
       "ad": "no",
       "url": "https://jx.kukan.vip/jiexi/?url="
     },
       {
-      "id": 35,
+      "id": 34,
       "name": "IK解析",
       "ad": "no",
       "url": "https://vip.ikjiexi.top/?url="
     },
       {
-      "id": 36,
+      "id": 35,
       "name": "3解析",
       "ad": "no",
       "url": "https://api.3jx.top/vip/?url="
     },
      {
-      "id": 37,
+      "id": 36,
       "name": "52解析",
       "ad": "no",
       "url": "https://vip.52jiexi.top/?url="
